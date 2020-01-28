@@ -1,2 +1,2 @@
-# tabuadaJavaGraphic-
-Tabuada com interface gráfica na linguagem Java.
+# JOKENP-_JAVA
+Jokenpô Java
