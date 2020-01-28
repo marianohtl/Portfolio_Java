@@ -1,2 +1,2 @@
-# JOKENP-_JAVA
-Jokenpô Java
+# calculo_imc_graphic
+Calculadora de IMC
