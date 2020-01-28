@@ -1,10 +1,6 @@
-# PORTIFOLIO_JAVA
-Exercícios em Java com a bibliioteca Swing
-
-SEQUÊNCIA DE EXERCÍCIOS LÓGIOS EM JAVA, INSERIDOS EM UMA INTERFACCE GRÁFICA (_JAVASWING_)
-
-Exercícios de Lógica
+# Crud_Simples_Java_Web
+Tela de login, com a lógica de um Crud simples. jsp - html - css - java
 
 
-### Navegue nas Branches
+- Para executar esse projeto é necessário instalar XAMP, ou apache, tomcat e mysql.
 
